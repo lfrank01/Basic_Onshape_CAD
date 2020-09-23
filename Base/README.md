@@ -13,7 +13,6 @@ The Base assignment was my first OnShape document. Here are my key take aways:
   - l = line
   - r = center point rectangle
   - q = corner rectangle 
-  - _ = linear pattern
 
 * Linear patterns save time and energy. A linear pattern takes a sketch or feature and pattern it across an x and y axis.
 
