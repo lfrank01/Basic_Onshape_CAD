@@ -8,17 +8,17 @@
   - Having one sketch can lead to confusing dimensions and relationships. 
   - It becomes harder to manipulate a part if it is made with one sketch. 
   
-* At the bottom of OnShape, there is something called the part studio. The part studio allows multiple parts, and even assemblies, to be put together into one document. It's an helpful way to organize projects and compare parts. Here is what it looks like:
+* At the bottom of OnShape, there is something called the part studio. The part studio allows multiple parts, and even assemblies, to be put together into one document. It's a helpful way to organize projects and compare parts. Here is what it looks like:
 
-![Part Studio Picture](Luke-Engineering-III-Part-Studio.png)
+![Part Studio Picture](/Pictures/Luke-Engineering_III-Part_Studio.png)
 
 * When creating dimensions, the use of variables allows increased flexibility. If a part should be resized, instead of changing each dimesnion of the part, using a variable allows for a single change of the variable to resize. The variable feature can be found by accessing the "search tools" button or alt + c:
 
-![Part Studio Picture](Luke-Engineering-III-)
+![Variable Picture](/Pictures/Luke-Engineering_III-Variable_Picture.png)
 
 * A variable, once named and defined, can be used in sketches and extrusions. Here's what it looks like:
 
-![Part Studio Picture](Luke-Engineering-III-Part-Studio.png)
+![Variable In Extrusions Picture](/Pictures/Luke-Engineering_III-Using_Variable_In_Extrusion_Picture.png)
 
 * The use feature (u), is a great tool. It allows existing geometry of one part to be incorportated in another. The mount was created using the geometry of the base. It was a lot easier!
 
