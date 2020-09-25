@@ -17,7 +17,11 @@
  #### The Bearing:
  ![Bearing Sideways Picture](/Pictures/Luke-Engineering_III-Bearing-Sideways_Picture.png)
 
-* And the Bearing with the Wheel:
+ #### Bearing and Wheel:
 
  ![Wheel And Bearing Sideways Picture](/Pictures/Luke-Engineering_III-Wheel_And_Bearing-Sideways_Picture.png)
+  
+ #### A larger bearing for between the fork and base:
+
+ ![Big Bearing](/Pictures/Luke-Engineering_III-Big_Bearing-Sideways_Picture.png)
   
