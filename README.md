@@ -1,7 +1,7 @@
 # OnShape Caster
 ## The series of assignments that introduced me to OnShape CAD design. 
-
-The assignments that were part of the assignment were:
+### OnShape Document Link: https://cvilleschools.onshape.com/documents/c79e7bcf3e11945b1d2350ad/w/582c74d9ba2a058fa7ca8af8/e/619de89ee6e4c427f2528104
+The parts of the assignment were:
 * Part 1 - Base
 * Part 2 - Mount 
 * Part 3 - Fork 
