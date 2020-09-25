@@ -24,3 +24,4 @@
 
 * Another cool aspect of OnShape is that in each part studio, multiple parts can be made. The parts tab is around the bottom-left of the screen. To make a new part, there is an option when extrduing. 
  
+![Parts In Part Studio](/Pictures/Luke-Engineering_III-Parts_In_Part_Studio.png)
