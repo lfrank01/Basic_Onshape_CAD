@@ -15,8 +15,8 @@ I did my work in an OnShape document. An amazing feature of OnShape is that the 
 
 Here is my finished product:
 
-![Caster-Sideways-Picture](Pictures/Luke-Engineering_III-Caster-Sideways_Picture.png)
+![Caster Sideways Picture](Pictures/Luke-Engineering_III-Caster-Sideways_Picture.png)
 
-![Caster-Side-Picture](Pictures/Luke-Engineering_III-Caster-Side_Picture.png)
+![Caster Side Picture](Pictures/Luke-Engineering_III-Caster-Side_Picture.png)
 
-![Caster-Front-Picture](Pictures/Luke-Engineering_III-Caster-Front_Picture.png)
+![Caster Front Picture](Pictures/Luke-Engineering_III-Caster-Front_Picture.png)
