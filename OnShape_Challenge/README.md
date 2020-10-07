@@ -27,7 +27,7 @@ Here is my finished product:
 * Make sure that the fillet does not have a flat end. It should be a smooth curve. The purpose of a fillet is defeated if it is not a complete curve out of the corner.
 * It should look like this:
 
-![Correct Fillet Method](/OnShape_Challenge/Media/Luke-Engineering_III-OnShape_Challenge-Surface_Correct_Fillet_Method.png)
+![Correct Fillet Method](/OnShape_Challenge/Media/Luke-Engineering_III-OnShape_Challenge-Correct_Fillet_Method.png)
 
 * Not this:
 
