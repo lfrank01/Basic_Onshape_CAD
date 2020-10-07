@@ -10,7 +10,7 @@ The goal of the assignment was to teach about configurations. I created thirty-t
 
 For the asignment, I assembeled a picture frame, using the dowel pins that I created and four trapezoids. The trapezoids had wholes for the dowel pins and two different configurations so that the frame would look like a rectangle. 
 
-Here is what my finished product (shaded with hidden edges): 
+Here is my finished product (shaded with hidden edges): 
 
 ![Dowel Pin Sideways Picture](/Dorothy's_Dowel_Pins/Media/Luke-Engineering_III-Dorothy's_Dowel_Pins-Frame_Sideways_Picture.png)
 
