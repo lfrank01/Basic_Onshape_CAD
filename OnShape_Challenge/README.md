@@ -22,22 +22,22 @@ Here is my finished product:
 
 * When making the cube, instead of creating a cylinder on four surfaces seperately, I made only one and used a circular pattern to do all four. The pattern of revolution was a center line that I created in another sketch. Another, and possibly better, pattern of revolution would be a mate connector. A mate connector can be created by control + (m).
 
-![Onshape Challenge Front Picture]()
+![Cylinder Circular Pattern](/OnShape_Challenge/Media/Luke-Engineering_III-OnShape_Challenge-Cylinder_Revolute_Pattern.png)
 
 * Make sure that the fillet does not have a flat end. It should be a smooth curve. The purpose of a fillet is defeated if it is not a complete curve out of the corner.
 * It should look like this:
 
-![Onshape Challenge Front Picture]()
+![Correct Fillet Method](/OnShape_Challenge/Media/Luke-Engineering_III-OnShape_Challenge-Surface_Correct_Fillet_Method.png)
 
 * Not this:
 
-![Onshape Challenge Front Picture]()
+![Incorrect Fillet Method](/OnShape_Challenge/Media/Luke-Engineering_III-OnShape_Challenge-Surface_Incorrect_Fillet_Method.png)
 
-* Instead of creating a thin extrude, which OnShape does not seem to have, I created a surface extrusion and then used the thicken feature. The surface extrusion can be found as a tab in the extrusion feature. Its purpose is to extrude a one-dimensional sketch. I hid the surface extrusion because it was only neccesary for me to use the thicken feature and having surfaces interferes with the creation of extrusions.
+* Instead of creating a thin extrude, which OnShape does not seem to have, I created a surface extrusion and then used the thicken feature. The surface extrusion can be found as a tab in the extrusion feature. Its purpose is to extrude a one-dimensional sketch. I hid the surface extrusion because it was only neccesary for me to use the thicken feature.
 
-![Onshape Challenge Front Picture]()
+![Surface Extrude Feature](/OnShape_Challenge/Media/Luke-Engineering_III-OnShape_Challenge-Surface_Extrude_Feature.png)
 
 * I used cylindrical mates to connect the spinner shafts with the bracket.
 * I used revolute mates to connect the cube and spinner shafts.
-* The cylindrical mate was helpful because it esbalished a place in space that allowed for both spinner shafts to function properly without me needing to specify.
+* The cylindrical mate was helpful because it esbalished a place in space that allowed for both spinner shafts to function properly without me needing to specify the exact distance.
 * Custom colors can be selected in apearances.
